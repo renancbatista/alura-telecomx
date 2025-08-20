@@ -6,7 +6,7 @@ Este projeto analisa a evasão de clientes (*churn*) da **Telecom X**, identific
 
 ## 📌 Estrutura do Projeto
 
-- **TelecomX_Churn_Relatorio_Organizado.ipynb** → Notebook principal com:
+- **TelecomX_Churn.ipynb** → Notebook principal com:
   - Introdução e contextualização do problema.
   - Limpeza e tratamento de dados.
   - Análise exploratória com gráficos e correlações.
@@ -58,6 +58,6 @@ Este projeto analisa a evasão de clientes (*churn*) da **Telecom X**, identific
 ## 📂 Como Usar
 
 1. Clone este repositório ou baixe os arquivos.  
-2. Abra o notebook `TelecomX_Churn_Relatorio_Organizado.ipynb` no Jupyter Notebook ou JupyterLab.  
+2. Abra o notebook `TelecomX_Churn.ipynb` no Jupyter Notebook ou JupyterLab.  
 3. Execute as células para reproduzir a análise e gerar os gráficos.  
 
